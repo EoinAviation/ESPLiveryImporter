@@ -1,5 +1,5 @@
-#ESP Auto Livery Importer
-##Automated livery importer for Microsoft ESP based simulators
+# ESP Auto Livery Importer
+## Automated livery importer for Microsoft ESP based simulators
 
 This tool is designed to automatically import liveries for ESP basec simulators, such as Lockheed Martin Prepar3d, or Microsoft Flight Simulator X.
 
@@ -9,3 +9,5 @@ Choose your import directory (The one containing your livery folder). The progra
 Choose your output directory (The SimObjects\Something\ThePlaneYouWantToImportTo). More conflict checks will be done.
 
 When you start importing the livery, the program will copy the file, and make the entry into the `aircraft.cfg` file for you. It also backs up the file beforehand in case of any issues.
+
+Feel free to make a pull request, it's not my best nor cleanest work, but any contributions are apreciated!
