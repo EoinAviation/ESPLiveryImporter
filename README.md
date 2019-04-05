@@ -1,5 +1,5 @@
 # ESP Auto Livery Importer
-## Automated livery importer for Microsoft ESP based simulators
+### Automated livery importer for Microsoft ESP based simulators
 
 This tool is designed to automatically import liveries for ESP basec simulators, such as Lockheed Martin Prepar3d, or Microsoft Flight Simulator X.
 
